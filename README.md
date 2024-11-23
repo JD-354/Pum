@@ -151,6 +151,7 @@ PUMA Collection
 <div class="collapse navbar-collapse" id="navbarNav">
 
 <ul class="navbar-nav me-auto">
+</ul>
 
 <li class="nav-item">
 
