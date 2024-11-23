@@ -154,7 +154,7 @@ PUMA Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/puma"><i class="fas fa-home"></i> Inicio</a>
+<a  href="https://jd-354.github.io/Z/">Inicio</a>
 
 </li>
 
