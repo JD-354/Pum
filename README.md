@@ -170,7 +170,6 @@ PUMA Collection
 
 </li>
 
-</ul>
 
 
 
@@ -497,8 +496,4 @@ setTimeout(() => { counter.style.transform = 'scale(1)';
 </script>
 
 
-
-</body>
-
-</html>
 
