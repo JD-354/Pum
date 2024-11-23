@@ -130,7 +130,7 @@ padding: 5px 10px; border-radius: 5px;
 
 <div class="container">
 
-<a class="navbar-brand" href="https://zapatostyle.com">
+<a class="navbar-brand" href="">
 
 <img src="https://images.unsplash.com/photo-1608231387042-66d1773070a5" alt="PUMA Logo" width="40" height="40" class="d-inline-block align-text-top me-2">
 
