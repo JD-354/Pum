@@ -151,7 +151,7 @@ PUMA Collection
 <div class="collapse navbar-collapse" id="navbarNav">
 
 <ul class="navbar-nav me-auto">
-</ul>
+
 
 <li class="nav-item">
 
@@ -170,8 +170,9 @@ PUMA Collection
 <a class="nav-link" href="https://jd-354.github.io/DPT/"><i class="fas fa-running"></i> Deportivos</a>
 
 </li>
+<a class="nav-link" href="https://jd-354.github.io/Cpr/"><i class="fas fa-fire"></i>Envios</a>
 
-
+</ul>
 
 
 <div class="cart-container">
