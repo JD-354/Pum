@@ -152,27 +152,26 @@ PUMA Collection
 
 <ul class="navbar-nav me-auto">
 
-
 <li class="nav-item">
 
 <li class="nav-item ">
-<a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
-              </li>
+<a class="nav-link" href="https://jd-354.github.io/Z/"><i class="fas fa-home"></i> Inicio</a>
+
+</li>
 
 <li class="nav-item">
 
 <a class="nav-link" href="https://zapatostyle.com/puma/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
-
 </li>
 
 <li class="nav-item">
 
 <a class="nav-link" href="https://jd-354.github.io/DPT/"><i class="fas fa-running"></i> Deportivos</a>
-
 </li>
 <a class="nav-link" href="https://jd-354.github.io/Cpr/"><i class="fas fa-fire"></i>Envios</a>
 
 </ul>
+
 
 
 <div class="cart-container">
@@ -498,4 +497,8 @@ setTimeout(() => { counter.style.transform = 'scale(1)';
 </script>
 
 
+
+</body>
+
+</html>
 
