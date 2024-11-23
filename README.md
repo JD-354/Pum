@@ -166,7 +166,7 @@ PUMA Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/puma/deportivos"><i class="fas fa-running"></i> Deportivos</a>
+<a class="nav-link" href="https://jd-354.github.io/DPT/"><i class="fas fa-running"></i> Deportivos</a>
 
 </li>
 
