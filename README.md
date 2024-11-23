@@ -168,9 +168,9 @@ PUMA Collection
 
 <a class="nav-link" href="https://jd-354.github.io/DPT/"><i class="fas fa-running"></i> Deportivos</a>
 </li>
-
+<li class="nav-item">
 <a class="nav-link" href="https://jd-354.github.io/Cpr/"><i class="fas fa-fire"></i>Envios</a>
-
+</li>
 </ul>
 
 
