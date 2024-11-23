@@ -161,7 +161,7 @@ PUMA Collection
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://zapatostyle.com/puma/nuevos"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
+<a class="nav-link" href="https://jd-354.github.io/N/"><i class="fas fa-fire"></i> Nuevos Lanzamientos</a>
 </li>
 
 <li class="nav-item">
