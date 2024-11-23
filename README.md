@@ -154,9 +154,9 @@ PUMA Collection
 
 <li class="nav-item">
 
-<a  href="https://jd-354.github.io/Z/">Inicio</a>
-
-</li>
+<li class="nav-item ">
+<a class="nav-link" href="https://jd-354.github.io/Z/">Inicio</a>
+              </li>
 
 <li class="nav-item">
 
